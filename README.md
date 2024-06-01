@@ -24,7 +24,7 @@ Heracles is a chess engine written in C that uses the Minimax algorithm with a b
 ### Prerequisites
 
 - GCC (GNU Compiler Collection)
-- Make
+- Make (there is no makefile but the implicit rules of make are enough)
 
 ### Steps
 
@@ -38,6 +38,10 @@ Heracles is a chess engine written in C that uses the Minimax algorithm with a b
     ```sh
     make
     ```
+
+### Visual Studio
+
+This repository includes a Visual Studio project file, allowing you to open Heracles in Visual Studio and build it using the integrated build system.
 
 ## Usage
 
