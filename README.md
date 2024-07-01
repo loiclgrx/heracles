@@ -97,7 +97,7 @@ A bitboard is a 64-bit integer used to represent the positions of pieces on a ch
 
 ## Contributions
 
-This project was part of a course from the engineering school IMT Nord Europe which I took along two classmates :
+This project was part of a course from the engineering school IMT Nord Europe which I took along two classmates:
 - [Julian Hutin](https://www.linkedin.com/in/julian-h-03708219b/)
 - [Hamza Lasri](https://www.linkedin.com/in/hamza-lasri/)
 
